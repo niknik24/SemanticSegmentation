@@ -12,4 +12,4 @@ if __name__ == '__main__':
         "device": "cuda",
         "num_workers": 4,
     }
-    #prediction.prediction("testing/image", params)
+    prediction.prediction("testing/image", params)
