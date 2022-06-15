@@ -16,3 +16,8 @@ Semantic segmentation project with Ternausnet and Mapillary Vistas Dataset
 
 
 ![image](https://user-images.githubusercontent.com/64371527/173794507-d3f4de4a-fad0-4928-aa93-d5be5bec2cda.png)
+
+
+
+
+Ссылка на чекпоинт URL: https://drive.google.com/file/d/1-6jEVkEUP84LvzjAoqTs1yJpZmtzyDjl/view?usp=sharing
