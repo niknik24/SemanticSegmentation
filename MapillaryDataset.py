@@ -51,8 +51,6 @@ class MapillaryDataset(data.Dataset):
 
         img1 = self.preprocess(image, False)
         mask = preprocess_mask(mask)
-        plt.imshow(mask)
-        plt.show()
         if self.transform is not None:
             transformed = self.transform(image=img1, mask=mask)
             image = transformed["image"]
